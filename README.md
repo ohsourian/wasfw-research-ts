@@ -31,7 +31,17 @@ $ docker-compose up -d # 앱 실행하기
 $ docker-compose down # 앱 종료하기
 ```
 
-## 시스템 요구사항
+## 시스템 환경
+
+> 🖥 Mac OS / 🍺 Homebrew
+> 
+> 🟩 Node `v17.0 (Latest)` / 🐈 Yarn pkgmgr
+> 
+> 🐳 Docker Desktop (docker, docker-composer)
+> 
+> 🐘 PostgreSQL 관계형 데이터베이스
+> 
+> 🟥 Redis 메모리 데이터 저장소
 
 ## 시작하기
 
